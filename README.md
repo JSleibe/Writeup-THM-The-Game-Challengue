@@ -38,5 +38,4 @@ Even files that appear complex, like an executable game, may contain the solutio
 
 This challenge demonstrates that sometimes the simplest tools yield the fastest results.
 By combining strings and grep, I was able to locate and recover the flag without running the program or performing deep reverse engineering.
-The flag obtained was:
-THM{I_CAN_READ_IT_ALL}
+The flag obtained was: ... *Read my writeup. You’ll see how simple it can be for you.
