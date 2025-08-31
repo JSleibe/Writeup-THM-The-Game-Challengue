@@ -1,6 +1,6 @@
 # Writeup-THM-The-Game-Challengue
 # TryHackMe - The Game (Challenge)  
-*Writeup by Juan Salvador Sleibe*
+*Writeup by ;) *
 
 ---
 
