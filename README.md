@@ -34,8 +34,3 @@ Static analysis is a powerful first step before attempting reverse engineering o
 strings can quickly expose hidden information, making it an essential tool for initial triage.
 grep is effective to filter large outputs and focus only on relevant patterns, such as flag formats.
 Even files that appear complex, like an executable game, may contain the solution in plain text.
-
-
-This challenge demonstrates that sometimes the simplest tools yield the fastest results.
-By combining strings and grep, I was able to locate and recover the flag without running the program or performing deep reverse engineering.
-The flag obtained was: ... *Read my writeup. You’ll see how simple it can be for you.
